@@ -1,0 +1,12 @@
+names:
+  0: building
+  1: structure
+  2: tree
+  3: bridge
+  4: vehicle
+  5: person
+
+path: C:\Users\USER\OneDrive\문서\MyPythonStudy\패스트캠퍼스\파이토치_컴퓨터비전\acorn_project\yolo_model\yolo_dataset_16000(적외선이미지포함)\eval
+train: images/train
+val: images/val
+test: images/test
